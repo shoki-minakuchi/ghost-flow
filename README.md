@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **【リポジトリ統合のお知らせ】**  
+> `ghost-flow` は、リポジトリ一本化に伴い **[`ghost-cursor`（`flow` ブランチ）](https://github.com/shoki-minakuchi/ghost-cursor/tree/flow)** に統合されました。  
+> 今後の最新コード・機能改善・Issue はすべて統合先の `ghost-cursor`（`flow` ブランチ）にて管理されます。
+
 # 👻 GhostFlow
 
 > **Lightweight, Sub-Millisecond Asynchronous DAG Pipeline & Event-Driven Orchestrator for Autonomous Agent Swarms**
